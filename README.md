@@ -16,4 +16,4 @@ Each row represents an employee, each column contains employee attributes:
 
 Task: The task is to predict whether the employee will leave the workplace or not i.e., to predict the column 'left'
 
-Achieved and accuracy of 98.2%
+Achieved an accuracy of 98.2%
